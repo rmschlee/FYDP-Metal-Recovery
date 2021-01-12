@@ -6,7 +6,7 @@ nAu0(1) = 0.05; %mol
 nPd0(1) = 0.001; %mol
 nH0(1) = 1e-1; %pH of 1
 %conductivity values, check on this (S m2 /mol)
-gammaAg = 61.90e-4;
+gammaAg = 61.90e-4;%fdsf
 gammaAu = 4.1e7;
 gammaPd = 0.1;
 gammaH = 349.81e-4;
